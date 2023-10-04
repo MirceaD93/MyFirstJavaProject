@@ -42,5 +42,5 @@ public class Operators {
 
         if(condition);
            System.out.println("Conditia este adevarata");
-    }
+    }}
 
